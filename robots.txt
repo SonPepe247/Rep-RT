@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /rocktechticket/
+Disallow: /rocktech-web/404/
+
+sitemap: https://www.rocktechla.com/sitemap.xml
